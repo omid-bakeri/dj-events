@@ -1,5 +1,5 @@
 .container {
-  background-color: #4ecdde;
+  background-color: #0f9bea;
   display: flex;
   justify-content: space-between;
   padding: 30px;
@@ -8,14 +8,21 @@
   min-width: 100%;
 }
 
-.container h1{
+.container h1 {
   font-size: 1.5rem;
   font-weight: bolder;
 }
 
-.Nav{
+.container h2 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: white;
+}
+
+.Nav {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 10px;
+  color: white;
 }
