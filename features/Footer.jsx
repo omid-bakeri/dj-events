@@ -4,7 +4,6 @@ function Footer(){
         <h1 className={styles.container}>
             Footer Dj Events
         </h1>
-
     </div>
 }
 

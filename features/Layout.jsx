@@ -13,6 +13,7 @@ function Layout({title , keywords , description , children}){
             <meta name={keywords} content={description}/>
         </Head>
         <Header/>
+        <img className="w-full" src="https://static.vecteezy.com/system/resources/previews/024/308/318/non_2x/cool-dj-with-headphones-illustration-ai-generative-free-photo.jpg"/>
             {children}
         <Footer/>
     </div>
