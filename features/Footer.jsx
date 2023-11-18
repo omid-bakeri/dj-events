@@ -1,9 +1,10 @@
+import styles from "../styles/Footer.module.css"
 function Footer(){
-    return <div className="bg-black text-white
-     w-full">
-        <h1 className="text-red-500 ">
+    return <div>
+        <h1 className={styles.container}>
             Footer Dj Events
         </h1>
+
     </div>
 }
 
